@@ -40,7 +40,7 @@ public class Album {
         this.songs.add(newSong);
         return true;
     }
-
+    //if you know the song name then use this function
     public boolean addToPlaylist(String title, LinkedList<Song> playList){
         for(Song checkSong:this.songs){
             if(checkSong.getTitle().equals(title)){
@@ -50,5 +50,15 @@ public class Album {
             }
         }
        return false;
+    }
+
+    //iff you don't know about song title then used album trackNumber
+    public boolean addToPlaylist(int trackNumber, LinkedList<Song> playList){
+        int idx=trackNumber-1;
+        if(idx>=0 && idx<=this.songs.size()-1){
+            playList.add(this.songs.get(idx));
+            return true;
+        }
+        return false;
     }
 }
