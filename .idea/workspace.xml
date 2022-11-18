@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="86bad0f5-cc3c-4dd0-8f5a-cab9676ccaa9" name="Changes" comment="first commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Album.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Album.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/spotifyApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/spotifyApp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/spotifyApp/src/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/spotifyApp/src/main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -106,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668756060891</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="first commit">
+      <created>1668760780613</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1668760780613</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -129,22 +137,22 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main.java</url>
-          <line>7</line>
+          <line>8</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main.java</url>
-          <line>8</line>
+          <line>9</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main.java</url>
-          <line>9</line>
+          <line>10</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main.java</url>
-          <line>10</line>
+          <line>11</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -234,7 +242,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main.java</url>
-          <line>6</line>
+          <line>7</line>
           <properties class="src.main" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
