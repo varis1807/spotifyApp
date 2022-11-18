@@ -25,7 +25,7 @@ public class Album {
             }
 
         }
-        System.out.println("Song not found!!!");
+        //System.out.println("Song not found!!!");
         return false;
     }
 
@@ -38,6 +38,7 @@ public class Album {
         //insert
         Song newSong=new Song(title,duration);
         this.songs.add(newSong);
+        System.out.println("Add Song Succesfully!!!");
         return true;
     }
     //if you know the song name then use this function
