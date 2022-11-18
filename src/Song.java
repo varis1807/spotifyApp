@@ -10,7 +10,7 @@ public class Song {
         this.duration=duration;
     }
 
-    public boolean getTitle() {
+    public String getTitle() {
         return title;
     }
     public double getDuration() {
